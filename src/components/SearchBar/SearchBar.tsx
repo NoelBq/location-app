@@ -1,4 +1,4 @@
-import React, { useState, useEffect, type SyntheticEvent } from "react";
+import { useState, useEffect, type SyntheticEvent } from "react";
 import {
   TextField,
   Autocomplete,
@@ -51,7 +51,7 @@ export function SearchBar({ onSelectDestination, onClear, value }: SearchDestina
         setOptions([]);
       }
     };
-  
+
     fetchOptions();
   }, [query]);
 
