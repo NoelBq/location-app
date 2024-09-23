@@ -4,7 +4,11 @@
 
 ### Destop:
 
+<img width="1440" alt="Screenshot 2024-09-23 at 9 16 23 AM" src="https://github.com/user-attachments/assets/b6cf889f-e364-487d-94a0-eab78e7ccd2b">
+
 ### Mobile:
+
+<img width="342" alt="Screenshot 2024-09-23 at 9 17 39 AM" src="https://github.com/user-attachments/assets/5b349eab-90d1-42ec-a19f-f346a8fc90f3">
 
 ## 🏁 Getting Started
 
