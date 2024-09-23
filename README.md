@@ -22,20 +22,6 @@ yarn dev
 
 Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
 
-### 🐳 Docker Setup
-
-To set up the development environment using Docker, follow these steps:
-
-Prerequisites
-Ensure you have Docker and Docker Compose installed on your machine. You can download and install them from the Docker website.
-
-Build and Start the Development Environment
-Use Docker Compose to build and start the development environment:
-
-```
-docker-compose -f docker-compose.dev.yml up --build
-```
-
 ## 📚 Primary Libraries
 
 - **React**: [https://reactjs.org/](https://reactjs.org/)
